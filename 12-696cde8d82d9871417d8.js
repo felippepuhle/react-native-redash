@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{r3e0:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),l=t("Nhdc");n.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(l.d,{title:"Transformations"}),r.a.createElement("h1",null,"Transformations"),r.a.createElement("p",null,"@TODO"))}}}]);
+//# sourceMappingURL=12-696cde8d82d9871417d8.js.map

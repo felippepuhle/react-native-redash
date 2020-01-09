@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{Fs4X:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("Nhdc");t.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(c.d,{title:"Math"}),l.a.createElement("h1",null,"Math"),l.a.createElement("p",null,"@TODO"))}}}]);
+//# sourceMappingURL=9-cf194c130be7af229b7c.js.map
